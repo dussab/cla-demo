@@ -15,15 +15,6 @@ Developer experience:
 
 
 
-
-
-
-
-
-
-
-
-
 Vendor Excperience:
 - ability to review who has signed the repository
 - ability to see the CLA version history
