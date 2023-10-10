@@ -8,6 +8,7 @@ Developer experience:
 - Support for versioned CLAs - When a new version of a CLA is introduced, it forced everyone to sign the new CLA on their next contribution 
 
 Mod 1
+Mod 2
 
 Vendor Excperience:
 - ability to review who has signed the repository
