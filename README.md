@@ -7,9 +7,7 @@ Developer experience:
 - Support for trivial fixes
 - Support for versioned CLAs - When a new version of a CLA is introduced, it forced everyone to sign the new CLA on their next contribution 
 
-- mod
-- -mod2
-- - mod 3
+
 
 
 
