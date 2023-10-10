@@ -4,7 +4,6 @@ This repository is a sample repo to demonstrate contributor license agreement to
 Developer experience:
 - Support for individual contribtor CLA signing
 - Support for corporate contributor CLA signing
-- Frictionless developer experience
 - Support for trivial fixes
 - Support for versioned CLAs - When a new version of a CLA is introduced, it forced everyone to sign the new CLA on their next contribution 
 
