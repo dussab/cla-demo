@@ -13,6 +13,7 @@ Mod 1
 4
 5
 6
+mod 6
 
 Vendor Excperience:
 - ability to review who has signed the repository
